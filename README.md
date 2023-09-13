@@ -8,3 +8,6 @@ Javascript
 CSS
 Html
 I may be missing some, I did both backend and frontend of this project.
+
+
+I am not able to quarentee this code is tidy I wanted to keep to the sprite of the original challenge and leave it as it was when I finished it
