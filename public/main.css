@@ -1,0 +1,108 @@
+.backgroundContainer {
+  color: black;
+  background-color: #f0833a;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("/battle.webp");
+  background-size: 30% auto;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  z-index: -2;
+}
+
+.centeredContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo {
+  z-index: -1;
+  width: 500px; 
+  height: 500px;
+  margin-bottom: 20px;
+}
+
+.title {
+  margin-top: -250px;
+  margin-bottom: -130px;
+}
+
+.titleLogo {
+  width: 700px; 
+  height: auto;
+ 
+}
+
+.textInputContainer {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.textInput {
+  width: 300px; 
+  height: 40px; 
+  border-radius: 10px; 
+  text-align: center; 
+  font-size: 18px;
+}
+
+
+
+
+.buttonContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem; 
+  height: 50px;
+}
+
+/* ------------------button------------------------ */
+.generator-button {
+  background: linear-gradient(to bottom right, #FFFFFF, #4dc2ff);
+  border: 0;
+  border-radius: 12px;
+  border: 2px solid black;
+  color: black;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 2.5;
+  outline: transparent;
+  padding: 0 1rem;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow .2s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+}
+
+.generator-button:not([disabled]):focus {
+  box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+
+.generator-button:not([disabled]):hover {
+  box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+
+/* -------------AUDIO------------ */
+.audioContainer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
