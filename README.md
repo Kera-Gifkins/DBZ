@@ -1,16 +1,10 @@
-Ladies, gentlemen, and Saiyans of all power levels, gather 'round and prepare to be in awe! For today we have brought to you technology straight from Capsule Corp. headquarters.
-My name is Dr. PJs, one of the scientist aides of the late great Dr. Briefs.
-We’ve been working around the clock to bring you this modern and slick website that was designed not only to read your power levels, but to also compare yourself to the over 9000* users that we have stored on this small site.
-By entering your name and clicking this button you can find out if you can beat a turtle! And maybe even Krillin! (Everyone can beat Krillin).
+Hello this project was made using react typescript, it was a 24 hour challenge between 4 of us, how it got to dragon ball, was that our first name initals were K A M and I which if as you can see can spell Kami I can't remember who but one of us was a huge dragon ball fan and recongized this overall  believe I spent 6-8 hours on this and I am still rather happy with it with the small timeline, I unfortunately could not optimize the full time limit due to unforeseen real life events, if I had more time I would have made it so that the peoples names get added to the database, and it checks for that name first so it always pulls the same power value for someone of the same name, as well as adding in a random photo to represent them, which in turn would have made it so that this person would show up on the you can beat and this person an beat you. If I did a challenge like this today I would try find an api that already had some information in it, I did do that for this project too but couldn't find anything quite right.
 
-And we guarantee all your data is private and won’t be shared and sold to third-party data brokers for profit**.
-This website is bound to put an end to your personal rivalry, and to show which one of you is indeed the strongest.
-Do you think you could step up and be as powerful as Goku?
-Well put down those senzu beans and enter your name and find out...
-
-
-* number yet to be verified
-** again yet to be verified
-
----
-[Provide feedback on this repo](https://docs.google.com/forms/d/e/1FAIpQLSfw4FGdWkLwMLlUaNQ8FtP2CTJdGDUv6Xoxrh19zIrJSkvT4Q/viewform?usp=pp_url&entry.1958421517=boilerplate-fullstack-query)
+languages in this project are 
+SQL 
+React 
+Typescript
+Javascript
+CSS
+Html
+I may be missing some, I did both backend and frontend of this project.
